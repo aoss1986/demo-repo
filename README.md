@@ -1,5 +1,6 @@
 # Github - Git Learning Exercise
 
-I would like to dominate this in the coming days/weeks.
+The hello.py program will be imported from my VSCode directory to Github 
+in order to practice how Github works.
 
-Then world domination can start
+This RESDMME.md document will be cloned to my venv
